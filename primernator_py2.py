@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from Tkinter import *
+from tkinter import *
 import math as math
 
 class ABC(Frame):
